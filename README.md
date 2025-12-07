@@ -72,9 +72,9 @@ print("Check 'my_results/maps/dashboard.html'!")
 
 ![Store Performances](./sample_results/plots/04_store_performance.png)
 
-#### Order Dashboard for Visualization
+#### Order Dashboard
 
-![./sample_results/maps/dashboard.png]
+![Dashboard](./sample_results/maps/dashboard.png)
 
 ---
 
