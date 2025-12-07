@@ -1,0 +1,12 @@
+geopandas>=0.10
+pandas>=1.3
+numpy
+shapely
+osmnx>=1.9
+scikit-learn
+seaborn
+matplotlib
+folium
+mapclassify
+requests
+pyogrio
